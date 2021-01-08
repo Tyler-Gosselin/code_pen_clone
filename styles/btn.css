@@ -1,0 +1,88 @@
+.right-column > .right-column-content {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-column > .right-column-content > .create-button button {
+    background-color: rgb(58, 57, 57);
+    color: honeydew;
+    font-size: 1em;
+    font-family: 'Lato', sans-serif;
+    padding: 10px 25px;
+    border: 1px solid rgb(58, 57, 57);
+    border-radius: 3px;
+    outline: none;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-column > .right-column-content > .create-button button i {
+    color:turquoise;
+    padding: 1.75px;
+    font-size: 2em;
+}    
+
+.right-column > .right-column-content > .right-column-icon i {
+    font-size: 2em;
+    color: darkgray;
+    margin: 25px 10px 10px 10px;
+    display: flex;
+    align-items: center;  
+}
+
+.right-column > .right-column-content > .log-in-button button {
+    background-color: rgb(58, 57, 57);
+    color: honeydew;
+    font-size: 1em;
+    font-family: 'Lato', sans-serif;
+    padding: 10px 25px;
+    border: 1px solid rgb(58, 57, 57);
+    border-radius: 3px;
+    outline: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.right-column > .right-column-content > .sign-up-button button {
+    background-color: rgb(58, 57, 57);
+    color: honeydew;
+    font-size: 1em;
+    font-family: 'Lato', sans-serif;
+    padding: 10px 25px;
+    border: 1px solid rgb(58, 57, 57);
+    border-radius: 3px;
+    outline: none;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.features-section > .main-content > .para-content > .sign-up-btn {
+    background-color: turquoise;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    padding: 10px;
+    border: 1px solid turquoise;
+    outline: none;
+    margin: 250px 45px 45px 15px;
+    border-radius: 4px;
+}
+
+.features-section > .main-content > .para-content > .learn-more-btn {
+    background-color: rgb(19, 18, 18);
+    color: honeydew;
+    font-size: 1em;
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+    border: 1px solid  rgb(19, 18, 18);
+    outline: none;
+    margin: 250px 45px 45px 15px;
+    border-radius: 4px;
+}

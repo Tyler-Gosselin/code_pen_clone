@@ -1,0 +1,38 @@
+.footer-section > .footer-boxes {
+    font-size: 2em;
+    border-bottom: 20px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.footer-section > .footer-boxes > .box-one {
+    background-color: #4c4f5a;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: honeydew;
+    outline: 2px solid rgb(133, 134, 133);
+    padding: 10px 50px;
+}
+
+.footer-section > .footer-boxes > .box-two {
+    background-color: #4c4f5a;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: honeydew;
+    outline: 2px solid rgb(133, 134, 133);
+    padding: 10px 30px;
+}
+
+.footer-section > .footer-boxes > .box-three {
+    background-color: #4c4f5a;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: honeydew;
+    outline: 2px solid rgb(133, 134, 133);
+    padding: 10px 35px;
+}
+
+.footer-section > .footer-boxes > .box-four {
+    background-color: #4c4f5a;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: honeydew;
+    outline: 2px solid rgb(133, 134, 133);
+    padding: 10px 30px;
+}
